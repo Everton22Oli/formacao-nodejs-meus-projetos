@@ -1,0 +1,3 @@
+site oficial para pegar pacotes nodejs: https://www.npmjs.com/
+lista de 75 pacotes uteis: https://firebearstudio.com/blog/node-js-command-line-apps-utilities.html
+documentação do npm: https://docs.npmjs.com/
