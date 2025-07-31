@@ -1,3 +1,12 @@
+BIBLIOTECAS E PACOTES
 site oficial para pegar pacotes nodejs: https://www.npmjs.com/
 lista de 75 pacotes uteis: https://firebearstudio.com/blog/node-js-command-line-apps-utilities.html
 documentação do npm: https://docs.npmjs.com/
+
+
+SCRIPTS
+https://github.com/digitalinnovationone/formacao-nodejs/tree/main/08-npm-scripts
+
+npm scripts documentação:https://docs.npmjs.com/cli/v10/using-npm/scripts
+
+scripts do time do facebook no projeto do react:: https://github.com/facebook/react/blob/main/package.json
